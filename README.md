@@ -1,1 +1,1 @@
-## Ссылка на проект https://github.com/natalia-hataullina/Home-Work
+## Ссылка на проект https://natalia-hataullina.github.io/Home-Work/
