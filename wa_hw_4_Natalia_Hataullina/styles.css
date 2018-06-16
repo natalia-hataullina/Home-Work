@@ -1,0 +1,7 @@
+@import 'styles/base.css';
+@import 'styles/block-menu.css';
+@import 'styles/block-header-and-main-baner.css';
+@import 'styles/flex-container.css';
+@import 'styles/slider.css';
+@import 'styles/footer.css';
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600');

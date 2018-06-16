@@ -1,0 +1,107 @@
+.flex-row {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 35px;
+}
+.flex-item {
+    width: 36vw;
+}
+.flex-item:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.02);
+}
+.block-intro {
+    display: flex;
+    justify-content: flex-start;
+}
+.icon_case-study {
+    background: url(../assets/images/icon.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 50px;
+    height: 50px;
+    margin: 18px;
+}
+.icon-medium {
+    background: url(../assets/images/icon-medium.png) no-repeat;
+    background-size: 100% 100%;
+    width: 50px;
+    height: 50px;
+    margin: 18px;
+}
+.flex-item_block-text {
+    color: #777676;
+    text-transform: uppercase;
+    font-family: 'Roboto', 'sans-serif';
+    font-size: 12px;
+    font-weight: 600;
+}
+.flex-item_block-text-description {
+    color: black;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 300;
+}
+.flex-image {
+    width: 100%;
+    height: 480px;
+}
+.flex-image-medium {
+    width: 100%;
+    height: 280px;
+}
+.flex-image-event {
+    width: 100%;
+    height: 310px;
+}
+.flex-image-one {
+    background: url(../assets/images/grid-image.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-two {
+    background: url(../assets/images/grid-image-2.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-three {
+    background: url(../assets/images/grid-image-3.jpeg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-four {
+    background: url(../assets/images/grid-image-4.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-five {
+    background: url(../assets/images/grid-image-5.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-six {
+    background: url(../assets/images/grid-image-6.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-seven {
+    background: url(../assets/images/grid-image-7.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-eight {
+    background: url(../assets/images/grid-image-8.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-nine {
+    background: url(../assets/images/grid-image-9.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-ten {
+    background: url(../assets/images/grid-image-10.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-eleven {
+    background: url(../assets/images/grid-image-11.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.flex-image-twelve {
+    background: url(../assets/images/grid-image-12.jpg) no-repeat;
+    background-size: 100% 100%;
+}
